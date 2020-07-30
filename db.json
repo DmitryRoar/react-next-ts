@@ -1,0 +1,10 @@
+{
+    "posts": [
+        {"id": 1, "title": "JavaJabaPost", "body": "lorem5"},
+        {"id": 2, "title": "Post pro Design", "body": "lodddd5"},
+        {"id": 3, "title": "Post pro Chill", "body": "chilling"}
+    ],
+    "about": {
+        "title": "My page"
+    }
+}
